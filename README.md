@@ -7,4 +7,4 @@
 ***[Facebook](https://facebook.com/SomAtribute)***
 ***[Github](https://github.com/SomAtri)***
 
->>>>>>>>>>>>***[SomAtribute](https://somatribute.000webhostapp.com/)***
+>>>***[SomAtribute](https://somatribute.000webhostapp.com/)***
